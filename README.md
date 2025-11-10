@@ -1,2 +1,2 @@
-# Mini-project-in-data-analysis
-Mobile phone sales analysis
+# data-analysis
+Mobile phone sales analysis MINI PROJECT
